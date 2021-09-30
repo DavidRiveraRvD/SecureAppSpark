@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package edu.eci.secure.secureapp;
+package edu.eci.secureapp;
 
 import static spark.Spark.*;
 
